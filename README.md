@@ -2,6 +2,6 @@
 
 Welcome to the game, created for the course IASC 1P04 at Brock U
 
-## Prototype
+## Playest
 
-Play the prototype here [here](Prototype/Prototype.html)
+Play the prototype here [here](Playtest/Playtest)
